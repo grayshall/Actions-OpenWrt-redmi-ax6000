@@ -21,6 +21,9 @@ on:
 #  schedule:
 #    - cron: 0 16 * * *
 
+  watch:
+     types: [started]
+
 env:
   REPO_URL: https://github.com/padavanonly/immortalwrtARM
   REPO_BRANCH: mt7986
