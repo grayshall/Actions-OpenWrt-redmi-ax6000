@@ -20,3 +20,7 @@ echo 'src-git messense https://github.com/messense/aliyundrive-webdav' >>feeds.c
 echo 'src-git lean https://github.com/coolsnowwolf/packages' >>feeds.conf.default
 echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages.git' >>feeds.conf.default
 echo 'src-git small https://github.com/kenzok8/small.git' >>feeds.conf.default
+echo 'src-git luci https://github.com/immortalwrt/luci.git;openwrt-18.06-k5.4' >>feeds.conf.default
+echo 'src-git routing https://github.com/openwrt/routing.git' >>feeds.conf.default
+echo 'src-git routing https://github.com/openwrt/routing.git' >>feeds.conf.default
+echo 'src-git telephony https://github.com/openwrt/telephony.git' >>feeds.conf.default
