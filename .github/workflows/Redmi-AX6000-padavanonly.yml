@@ -25,7 +25,7 @@ env:
   REPO_URL: https://github.com/padavanonly/immortalwrtARM
   REPO_BRANCH: mt7986
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: padavanonly/Redmi-AX6000/.config
+  CONFIG_FILE: padavanonly/Redmi-AX6000/ax6000.config
   DIY_P1_SH: padavanonly/Redmi-AX6000/diy-part1.sh
   DIY_P2_SH: padavanonly/Redmi-AX6000/diy-part2.sh
   SSH_ACTIONS: false
